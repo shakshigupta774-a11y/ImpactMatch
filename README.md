@@ -85,3 +85,12 @@ Check `tech-roadmap` for details.
 - UX inspiration: LinkedIn Easy Apply  
 
 ---
+
+👥 Team Contributions
+
+-Shakshi Gupta - Led prototype design using Figma, created GitHub repository, and designed the final presentation deck.
+-Khushi Tiwari - Contributed to project video creation and managed final submission logistics.
+-Saman Abdul Quavi - Assisted in video scripting and editing for the demo.
+-Ishika Pandey - Supported ideation and feedback during project discussions.
+
+---
