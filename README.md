@@ -28,7 +28,7 @@ ImpactMatch = the 1-Click Apply platform for volunteering.
 ---
 
 ## 🎨 Prototype Demo  
-- [👉 Figma Interactive Prototype]([YOUR_FIGMA_LINK_HERE](https://www.figma.com/proto/8BOPcg8Yp8oF0cbEHCMBCd/ImpactMatch?node-id=1-2&p=f&t=niunUUswRjkDNSMH-1&scaling=contain&content-scaling=responsive&page-id=0%3A1&starting-point-node-id=1%3A2))  
+- [👉 Figma Interactive Prototype]([_FIGMA_LINK_HERE](https://www.figma.com/proto/8BOPcg8Yp8oF0cbEHCMBCd/ImpactMatch?node-id=1-2&t=qhWwvfsomo4JiHlt-0&scaling=contain&content-scaling=responsive&page-id=0%3A1&starting-point-node-id=1%3A2))  
 - Screenshots-
 - Volunteer signup page: <img width="1088" height="767" alt="Screenshot 2025-10-03 015530" src="https://github.com/user-attachments/assets/b98250d1-ae2c-42b9-a678-f05c71b84114" />
 
@@ -75,7 +75,7 @@ Workflow (Step-by-Step):
 ---
 
 🔮 Roadmap  
-Check `tech-roadmap` for details.  
+Check `[tech-roadmap](https://github.com/shakshigupta774-a11y/ImpactMatch/blob/main/tech-roadmap)` for details.  
 
 ---
 
